@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>My_wordpress</title>
+	<atom:link href="https://ngocphuoc18092003.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ngocphuoc18092003.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Fri, 16 Sep 2022 15:40:20 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>10 bức tranh nổi tiếng</title>
+		<link>https://ngocphuoc18092003.github.io/mywordpress/2022/09/16/10-buc-tranh-noi-tieng/</link>
+					<comments>https://ngocphuoc18092003.github.io/mywordpress/2022/09/16/10-buc-tranh-noi-tieng/#respond</comments>
+		
+		<dc:creator><![CDATA[Huynh Hoàng Ngoc Phuoc]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2022 15:12:50 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://ngocphuoc18092003.github.io/mywordpress/?p=289</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img width="1200" height="1789" src="https://ngocphuoc18092003.github.io/mywordpress/wp-content/uploads/2022/09/tranh1.jpg" alt="" class="wp-image-14"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="652" src="https://ngocphuoc18092003.github.io/mywordpress/wp-content/uploads/2022/09/tranh2.jpg" alt="" class="wp-image-15"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="545" src="https://ngocphuoc18092003.github.io/mywordpress/wp-content/uploads/2022/09/tranh3.jpg" alt="" class="wp-image-16"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="950" src="https://ngocphuoc18092003.github.io/mywordpress/wp-content/uploads/2022/09/tranh4.jpg" alt="" class="wp-image-17"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1463" src="https://ngocphuoc18092003.github.io/mywordpress/wp-content/uploads/2022/09/tranh5.jpg" alt="" class="wp-image-18"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="628" src="https://ngocphuoc18092003.github.io/mywordpress/wp-content/uploads/2022/09/tranh6.jpg" alt="" class="wp-image-19"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1717" src="https://ngocphuoc18092003.github.io/mywordpress/wp-content/uploads/2022/09/tranh7.jpg" alt="" class="wp-image-20"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1000" src="https://ngocphuoc18092003.github.io/mywordpress/wp-content/uploads/2022/09/tranh8.jpg" alt="" class="wp-image-21"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="1506" src="https://ngocphuoc18092003.github.io/mywordpress/wp-content/uploads/2022/09/tranh9.jpg" alt="" class="wp-image-22"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="538" src="https://ngocphuoc18092003.github.io/mywordpress/wp-content/uploads/2022/09/tranh10.jpg" alt="" class="wp-image-23"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ngocphuoc18092003.github.io/mywordpress/2022/09/16/10-buc-tranh-noi-tieng/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://ngocphuoc18092003.github.io/mywordpress/2022/08/29/chao-moi-nguoi/</link>
+					<comments>https://ngocphuoc18092003.github.io/mywordpress/2022/08/29/chao-moi-nguoi/#comments</comments>
+		
+		<dc:creator><![CDATA[Huynh Hoàng Ngoc Phuoc]]></dc:creator>
+		<pubDate>Mon, 29 Aug 2022 12:48:20 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://ngocphuoc18092003.github.io/mywordpress/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ngocphuoc18092003.github.io/mywordpress/2022/08/29/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
